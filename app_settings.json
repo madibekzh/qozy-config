@@ -2,5 +2,5 @@
   "app_store_url": "https://apps.apple.com/app/id6760579150",
   "play_store_url": "https://play.google.com/store/apps/details?id=kz.qozy.app",
   "latest_version_code": 64,
-  "is_mandatory": true
+  "is_mandatory": false
 }
